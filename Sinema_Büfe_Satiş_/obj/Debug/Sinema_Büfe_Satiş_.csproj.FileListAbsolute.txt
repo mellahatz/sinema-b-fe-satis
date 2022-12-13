@@ -1,0 +1,11 @@
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\bin\Debug\Sinema_Büfe_Satiş_.exe.config
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\bin\Debug\Sinema_Büfe_Satiş_.exe
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\bin\Debug\Sinema_Büfe_Satiş_.pdb
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.csproj.AssemblyReference.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.csproj.SuggestedBindingRedirects.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.Form1.resources
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.Properties.Resources.resources
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.csproj.GenerateResource.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.csproj.CoreCompileInputs.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.exe
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Sinema_Büfe_Satiş_\Sinema_Büfe_Satiş_\obj\Debug\Sinema_Büfe_Satiş_.pdb
